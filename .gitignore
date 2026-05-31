@@ -1,0 +1,6 @@
+# Public repo: only the anonymized busy feed (and index) may be tracked.
+# Everything else — secrets, scripts, logs — stays local.
+*
+!busy-148ac57032fb.ics
+!index.html
+!.gitignore
